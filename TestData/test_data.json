@@ -1,0 +1,16 @@
+{
+  "test1": {
+    "going_from": "New Delhi",
+    "going_to": "New",
+    "search_to": "New York (JFK)",
+    "date": "20/12/2021",
+    "stops": "1 Stop"
+  },
+   "test2": {
+     "going_from": "BOM",
+     "going_to": "New",
+     "search_to": "New York (JFK)",
+     "date": "31/12/2021",
+     "stops": "2 Stop"
+   }
+}

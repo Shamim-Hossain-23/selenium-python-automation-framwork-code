@@ -1,0 +1,424 @@
+1639119303144	geckodriver	INFO	Listening on 127.0.0.1:61005
+1639119306247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61006" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofiledAvhKb"
+1639119306598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofiledAvhKb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61006/devtools/browser/b3affb57-e0f2-4343-8616-b2466c889c80
+1639119308756	Marionette	INFO	Listening on port 61013
+1639119308915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639119312299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/HcWSo2IpfbXu/QG5z6H/oFad7E/S79bVXLw/dzojDwE/JV/VPYjYmdw4C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639119350456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/OSAANwmxau2r2tQxiw/X3cONXhr/GiAcSikD/D0Jz/dQ1ISQ4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 7323 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639119382105	Marionette	INFO	Stopped listening on port 61013
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639487812993	geckodriver	INFO	Listening on 127.0.0.1:51500
+1639487816080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51501" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileVpKLTB"
+1639487816887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileVpKLTB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51501/devtools/browser/0bab1173-f08d-4f27-9034-96c4987d6444
+1639487819217	Marionette	INFO	Listening on port 51509
+1639487819275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/XX3mLx/qV-yYH/2BLMY0N/t4E/Vk/Erhufz2D9G/HndgAQ/Rjxce1/tzI3AB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639487829039	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639487893776	Marionette	INFO	Stopped listening on port 51509
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639722772953	geckodriver	INFO	Listening on 127.0.0.1:53139
+1639722776036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53140" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileqEyqZz"
+1639722777016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileqEyqZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53140/devtools/browser/0af47e3d-6b35-4f14-95cf-ec22a1ca2ffd
+1639722779626	Marionette	INFO	Listening on port 53145
+1639722779735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639722781636	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/z2CN8x2lXjgsDhO-7g/ENOQX6XbNEuG/UVReGQE/PT5jNTY/gK2kB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639722818748	Marionette	INFO	Stopped listening on port 53145
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639722838453	geckodriver	INFO	Listening on 127.0.0.1:53252
+1639722841514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53253" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileCq8du6"
+1639722841810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileCq8du6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53253/devtools/browser/446a875b-239d-4219-8ad6-3809c4a21068
+1639722843848	Marionette	INFO	Listening on port 53258
+1639722844167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639722845803	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/z2CN8x2lXjgsDhO-7g/ENOQX6XbNEuG/UVReGQE/PT5jNTY/gK2kB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639722883895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/lfpjSWeh/d3Xs5UD/YBkVK9f/dI/itOmtprt/CQYoAg/Iz8pTWo/oGwwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U_DPXy_vflqTjVU_YutWJm0axOJE633NQGMGFEhf2s0.js line 1 > eval line 1283 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639722901285	Marionette	INFO	Stopped listening on port 53258
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639975653119	geckodriver	INFO	Listening on 127.0.0.1:60339
+1639975656187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60340" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofiletsIrY5"
+1639975657174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofiletsIrY5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60340/devtools/browser/6296f244-b453-480b-98a3-6dc8cb381fd5
+1639975659775	Marionette	INFO	Listening on port 60347
+1639975659862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639975661729	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1639975709133	Marionette	INFO	Stopped listening on port 60347
+1639975710640	geckodriver	INFO	Listening on 127.0.0.1:60450
+1639975713729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60451" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilej18cd0"
+1639975714062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilej18cd0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60451/devtools/browser/24c9a9bd-3925-4ce7-8176-aa3577958eae
+1639975716020	Marionette	INFO	Listening on port 60456
+1639975716422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639975718157	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639975756266	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 2968 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639975769574	Marionette	INFO	Stopped listening on port 60456
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639976092491	geckodriver	INFO	Listening on 127.0.0.1:62589
+1639976095555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62590" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileu4nNcx"
+1639976095896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileu4nNcx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62590/devtools/browser/59f2e10e-eb17-4762-ac27-47c463832d51
+1639976097727	Marionette	INFO	Listening on port 62595
+1639976098233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639976100306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1639976147075	Marionette	INFO	Stopped listening on port 62595
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639976148535	geckodriver	INFO	Listening on 127.0.0.1:62693
+1639976151603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62694" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilefiPMRr"
+1639976151958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilefiPMRr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62694/devtools/browser/ca969887-ba91-495d-8832-9f2b01dda136
+1639976153935	Marionette	INFO	Listening on port 62699
+1639976154277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639976155959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639976193304	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f8gou5y2Dfq0zn72-W9hYw99gWviw2ua4IRi-orcC78.js line 1 > eval line 1357 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639976206382	Marionette	INFO	Stopped listening on port 62699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639987859066	geckodriver	INFO	Listening on 127.0.0.1:51787
+1639987862093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51788" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileUj4WKM"
+1639987862434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileUj4WKM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51788/devtools/browser/276505e8-8f79-46d1-99b2-21cd2ad90f4e
+1639987864466	Marionette	INFO	Listening on port 51794
+1639987864776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639987866616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639987904477	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4471 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639987925424	Marionette	INFO	Stopped listening on port 51794
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639987926946	geckodriver	INFO	Listening on 127.0.0.1:51973
+1639987930035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51974" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileAwkGsP"
+1639987930403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileAwkGsP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51974/devtools/browser/182f7959-bfcd-4ceb-9aed-0f2c34da6e31
+1639987932679	Marionette	INFO	Listening on port 51980
+1639987932714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639987934430	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1639987949967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1639987965113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1639987972067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639987978286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1639987990846	Marionette	INFO	Stopped listening on port 51980
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639987992388	geckodriver	INFO	Listening on 127.0.0.1:52152
+1639987995482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52153" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileztnHHu"
+1639987995788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileztnHHu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52153/devtools/browser/ed881b79-ed91-4b0c-824f-6c521bd887c5
+1639987997832	Marionette	INFO	Listening on port 52160
+1639987998160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988000103	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1639988030908	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1639988042392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1639988047147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639988048604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 6378 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988069290	Marionette	INFO	Stopped listening on port 52160
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639988491740	geckodriver	INFO	Listening on 127.0.0.1:60627
+1639988494812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60628" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileWTrLyd"
+1639988495114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileWTrLyd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60628/devtools/browser/cae8f26b-e187-454b-bb7d-751a08fcc459
+1639988497580	Marionette	INFO	Listening on port 60634
+1639988498001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639988499811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639988537615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4496 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988556527	Marionette	INFO	Stopped listening on port 60634
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639988558087	geckodriver	INFO	Listening on 127.0.0.1:53299
+1639988561139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53300" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofile3rdi6x"
+1639988561429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofile3rdi6x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53300/devtools/browser/9bcb2670-0f78-4127-82f7-f4a38c0f7edb
+1639988563293	Marionette	INFO	Listening on port 53305
+1639988563310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639988564959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639988602765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 5575 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988615551	Marionette	INFO	Stopped listening on port 53305
+1639988616697	geckodriver	INFO	Listening on 127.0.0.1:53451
+1639988619753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53452" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilejdLKoL"
+1639988620036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilejdLKoL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53452/devtools/browser/e8881dc1-b3ba-437b-8668-4fa6e63f12e8
+1639988621932	Marionette	INFO	Listening on port 53458
+1639988622419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988624034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639988661791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3851 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639988678598	Marionette	INFO	Stopped listening on port 53458
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639989086617	geckodriver	INFO	Listening on 127.0.0.1:51212
+1639989089691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51213" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileDlOs8J"
+1639989089970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileDlOs8J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51213/devtools/browser/b8ed185e-25c5-4b2a-9258-39ec418c5f0b
+1639989091752	Marionette	INFO	Listening on port 51220
+1639989091854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639989093402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639989131259	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 3481 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639989150773	Marionette	INFO	Stopped listening on port 51220
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639989152234	geckodriver	INFO	Listening on 127.0.0.1:51396
+1639989155304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51397" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileKOIPyC"
+1639989155589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileKOIPyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51397/devtools/browser/06a89d81-4664-43bd-b39c-ac231ba97987
+1639989157627	Marionette	INFO	Listening on port 51403
+1639989157981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639989159706	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639989197991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4944 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639989211290	Marionette	INFO	Stopped listening on port 51403
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639989212821	geckodriver	INFO	Listening on 127.0.0.1:51576
+1639989215900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51577" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilew21jEc"
+1639989216192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofilew21jEc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51577/devtools/browser/d922e0b2-91eb-48d5-9d99-5e2548b5ed97
+1639989218314	Marionette	INFO	Listening on port 51583
+1639989218596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639989220211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639989257848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 6846 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639989275151	Marionette	INFO	Stopped listening on port 51583
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639990395850	geckodriver	INFO	Listening on 127.0.0.1:62854
+1639990398911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62855" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileC1KMQQ"
+1639990399206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileC1KMQQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62855/devtools/browser/2d9a682e-5514-4f32-adc3-fd193c67f082
+1639990401079	Marionette	INFO	Listening on port 62861
+1639990401573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639990403228	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639990440829	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4221 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639990460366	Marionette	INFO	Stopped listening on port 62861
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639990461901	geckodriver	INFO	Listening on 127.0.0.1:63011
+1639990464969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63012" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileMndU0i"
+1639990465250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileMndU0i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63012/devtools/browser/d96ba57c-732a-4cbc-b6ba-da3b84180901
+1639990467285	Marionette	INFO	Listening on port 63017
+1639990467613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639990469947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639990508850	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://flight.yatra.com/937spt3Sh072DNAVA44R/aDtifpc8/ADNEAQ/bSsM/IVgGaVAB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 1971 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639990522309	Marionette	INFO	Stopped listening on port 63017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639990523771	geckodriver	INFO	Listening on 127.0.0.1:57988
+1639990526842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57989" "-no-remote" "-profile" "C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileq2fxGu"
+1639990527133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\BS238\\AppData\\Local\\Temp\\rust_mozprofileq2fxGu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57989/devtools/browser/7a408160-9f83-4ca4-87d2-81d11d02cf21
+1639990529023	Marionette	INFO	Listening on port 57994
+1639990529480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639990531217	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.yatra.com/K3W-43MIH/KD/Z8/unYMeLvbdrbP7s/DizuwXzpr3hi/LncmMxobXQI/c2I1Hm9a/VDQB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+JavaScript warning: https://www.yatra.com/content/air-search-ui/js/theme/comb_international.min.js?v=20211206112947, line 1: unreachable code after return statement
+1639990569043	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 2458 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639990586349	Marionette	INFO	Stopped listening on port 57994
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
